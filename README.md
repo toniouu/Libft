@@ -27,7 +27,9 @@ Exemple : ft_isalpha, ft_isdigit, etc.
 Fonctions bonus 🎁
 Structures de données comme les listes chaînées (ex : ft_lstnew, ft_lstadd_front, etc.).
 
+
 🛠 Pourquoi ce projet ?
+
 Libft est une étape cruciale dans le cursus 42, car elle permet de :
 
 🔥 Renforcer les bases de la programmation en C.
