@@ -33,9 +33,13 @@ Structures de données comme les listes chaînées (ex : ft_lstnew, ft_lstadd_fr
 Libft est une étape cruciale dans le cursus 42, car elle permet de :
 
 🔥 Renforcer les bases de la programmation en C.
+
 💡 Comprendre en profondeur le fonctionnement des fonctions standard.
+
 🧹 Apprendre à écrire un code propre, réutilisable et conforme aux normes strictes de 42.
+
 🏗 Développer des compétences essentielles en gestion de projets et en organisation du code.
+
 
 
 Libft est plus qu'un simple projet ; c'est un outil qui servira de fondation pour de nombreux autres projets au cours de la formation 42. C'est aussi un défi passionnant pour devenir un meilleur développeur C.
