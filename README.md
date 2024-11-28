@@ -10,25 +10,15 @@ L'objectif principal de ce projet est de recréer plusieurs fonctions couramment
 FONCTIONNALITES
 Cette bibliothèque contient des fonctions regroupées dans les catégories suivantes :
 
-Fonctions de manipulation de chaînes de caractères
+Fonctions de manipulation de chaînes de caractères ----> Exemple : ft_strlen, ft_strcpy, ft_strjoin, etc.
 
-Exemple : ft_strlen, ft_strcpy, ft_strjoin, etc.
+Fonctions de manipulation de mémoire ----> Exemple : ft_memset, ft_memcpy, ft_memmove, etc.
 
-Fonctions de manipulation de mémoire
+Fonctions de conversion ----> Exemple : ft_atoi, ft_itoa, etc.
 
-Exemple : ft_memset, ft_memcpy, ft_memmove, etc.
+Fonctions utilitaires ----> Exemple : ft_isalpha, ft_isdigit, etc.
 
-Fonctions de conversion
-
-Exemple : ft_atoi, ft_itoa, etc.
-
-Fonctions utilitaires
-
-Exemple : ft_isalpha, ft_isdigit, etc.
-
-Fonctions bonus
-
-Structures de données comme les listes chaînées (ft_lstnew, ft_lstadd_front, etc.).
+Fonctions bonus ----> Structures de données comme les listes chaînées (ft_lstnew, ft_lstadd_front, etc.).
 
 
 POURQUOI CE PROJET ?
