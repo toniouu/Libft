@@ -3,11 +3,14 @@ LIBFT
 Libft est le premier projet de l'école 42, qui consiste à recréer une bibliothèque standard C (libc) personnelle. Ce projet est conçu pour renforcer les bases en programmation C tout en développant une compréhension approfondie des fonctions standard de la bibliothèque C.
 
 
+
 OBJECTIF
+
 L'objectif principal de ce projet est de recréer plusieurs fonctions couramment utilisées de la bibliothèque standard C, ainsi que d'en développer de nouvelles, pour former une boîte à outils personnalisée réutilisable dans d'autres projets de l'école 42.
 
 
 FONCTIONNALITES
+
 Cette bibliothèque contient des fonctions regroupées dans les catégories suivantes :
 
 Fonctions de manipulation de chaînes de caractères ----> Exemple : ft_strlen, ft_strcpy, ft_strjoin, etc.
@@ -22,6 +25,7 @@ Fonctions bonus ----> Structures de données comme les listes chaînées (ft_lst
 
 
 POURQUOI CE PROJET ?
+
 Libft est une étape cruciale dans le cursus 42, car elle permet de :
 
 Renforcer les bases de la programmation en C.
@@ -31,5 +35,6 @@ Développer des compétences essentielles en gestion de projets et en organisati
 Usage
 
 
-Conclusion
+
+
 Libft est plus qu'un simple projet ; c'est un outil qui servira de fondation pour de nombreux autres projets au cours de la formation 42. C'est aussi un défi passionnant pour devenir un meilleur développeur C.
